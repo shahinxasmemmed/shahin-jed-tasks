@@ -1,0 +1,13 @@
+*{   
+    margin: 0;
+    background-color: black;
+    color: lime;
+    text-align: center;
+}
+p{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+img{
+    width: 50%;
+}
